@@ -10,7 +10,7 @@
       "declarationDir": "./dist/types",
       "experimentalDecorators": true,
       "allowSyntheticDefaultImports": true,
-      "jsx": "react",
+      "jsx": "react-jsx",
       "strict": false,
       "skipLibCheck": true,
     },
